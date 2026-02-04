@@ -135,6 +135,16 @@ me.say_hi()
 </div>
 
 ---
+## 📊 My GitHub Journey
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfaisal123&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=0a0f24)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfaisal123&layout=compact&theme=tokyonight&title_color=00f2ff&text_color=ffffff&bg_color=0a0f24)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedfaisal123&theme=tokyonight&background=0a0f24&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff)
+---
+
+---
 
 ## 📊 GitHub Statistics
 
